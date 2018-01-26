@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE7AA4F8", 
+		"servers": [ 
+			{ 
+				"server_address": "router.eu.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 40.663063, 
+		"ref_longitude": 22.990017, 
+		"ref_altitude": 140, 
+		"contact_email": "oratios@orytel.com", 
+		"description": "Experimental Raspberry-RAK831 gateway" 
+	} 
+} 
